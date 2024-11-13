@@ -30,5 +30,5 @@
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/diamondrarktvo/MicroApp.git
+   git clone https://github.com/diamondrarktvo/miclo.git
    cd MicroApp
