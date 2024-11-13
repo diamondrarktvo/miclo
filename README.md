@@ -1,6 +1,6 @@
-# 🎙️ MicroApp
+# 🎙️ Miclo
 
-**MicroApp** est une application mobile développée en **React Native** qui transforme votre smartphone en un microphone sans fil via Bluetooth, idéal pour les utilisateurs sans micro externe.
+**Miclo** est une application mobile développée en **React Native** qui transforme votre smartphone en un microphone sans fil via Bluetooth, idéal pour les utilisateurs sans micro externe.
 
 ## 📋 Table des matières
 
